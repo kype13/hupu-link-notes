@@ -1,2 +1,14 @@
 # hupu-link-notes
-HTML page archive and documentation
+
+页面文件归档说明
+
+这里收集多个独立页面，方便在同一个仓库中管理。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
